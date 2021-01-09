@@ -1,0 +1,3 @@
+[submodule "flask-todolist-api"]
+	path = flask-todolist-api
+	url = https://github.com/cotter-code/flask-todolist-api.git
